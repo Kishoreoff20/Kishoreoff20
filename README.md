@@ -1,10 +1,5 @@
----
+<img width="3420" height="2214" alt="image" src="https://github.com/user-attachments/assets/8827eb9a-a9c0-410f-86b8-5df0456354c6" />
 
-<div align="center">
-    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
-</div>
-
----
 # 💫 About Me:
 Sankara Narayanan<br>👾C++ / Python Dev | Cybersec Enthusiast<br>📚Undergrad @ IIT Madras<br>🚀 I build tools that make developers go “oh this actually helps”<br>🤝 Open to collabs that don’t involve crying over seg faults<br>💡 If code worked on the first try, I’d assume it's a trap<br>
 
