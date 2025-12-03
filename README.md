@@ -9,7 +9,7 @@ Sankara Narayanan<br>
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_kishore.20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sankara-narayanan1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ee23b153@smail.iitm.ac.in) [![MonkeyType](https://img.shields.io/badge/MonkeyType-%23f6c90e.svg?logo=monkeytype&logoColor=black)](https://monkeytype.com/profile/oneeyedeagle)
 
 # 💻 Tech Stack:
