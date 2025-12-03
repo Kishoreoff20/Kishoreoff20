@@ -19,10 +19,12 @@ Sankara Narayanan<br>
 <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishoreoff20&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️Today’s motivation? 404 Not Found:
-<div style="margin-top:-30px;">
-  
+<div style="margin-top:-60px;">
+
+### Today’s motivation? 404 Not Found:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 </div>
 
