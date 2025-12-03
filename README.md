@@ -17,7 +17,7 @@ Sankara Narayanan<br>
 ![](https://github-readme-stats.vercel.app/api?username=Kishoreoff20&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kishoreoff20&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishoreoff20&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<img align="right" width="20%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
 
 ### ✍️Today’s motivation? 404 Not Found:
