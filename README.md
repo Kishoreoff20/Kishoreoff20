@@ -3,8 +3,7 @@
 </div>
 ---
 # 💫 About Me:
-Sankara Narayanan
-<br>👾C++ / Python Dev | Cybersec Enthusiast<br>📚Undergrad @ IIT Madras<br>🚀 I build tools that make developers go “oh this actually helps”<br>🤝 Open to collabs that don’t involve crying over seg faults<br>💡 If code worked on the first try, I’d assume it's a trap<br>
+Sankara Narayanan<br>👾C++ / Python Dev | Cybersec Enthusiast<br>📚Undergrad @ IIT Madras<br>🚀 I build tools that make developers go “oh this actually helps”<br>🤝 Open to collabs that don’t involve crying over seg faults<br>💡 If code worked on the first try, I’d assume it's a trap<br>
 
 
 ## 🌐 Socials:
