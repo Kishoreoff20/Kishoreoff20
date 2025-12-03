@@ -21,8 +21,7 @@ Sankara Narayanan<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishoreoff20&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## Today's Motivation? ERROR 404 NOT FOUND
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
 </p>
 
 
